@@ -5,7 +5,7 @@ require 'csv'
 
 module Advice
 
-
+ 
 
     # key_words is a list of strings, in our case it's just ["medical"]
     # codes is the nacebel codes list given
