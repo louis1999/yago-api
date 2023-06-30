@@ -7,7 +7,7 @@ module Api
     module V1
         class QuotesController < ApplicationController
 
-            include Module::Advice
+            include Advice
 
             # here is the list where each keyword has a list of associated recommendations
             # it is not perfectly relevent since the keywords manual and consultant do not exist but the idea is there
