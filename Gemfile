@@ -53,5 +53,3 @@ gem 'pg'
 
 gem 'csv'
 
-gem 'rails_helper'
-gem 'rspec-rails'
